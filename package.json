@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  }
+}
